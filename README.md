@@ -1,4 +1,4 @@
-# OuiOui Prank 🥖
+# OuiOui Extention Prank
 
 A Chrome extension that replaces all text and images on any webpage with "Ouiouioui" and a funny image.
 
@@ -32,3 +32,4 @@ A Chrome extension that replaces all text and images on any webpage with "Ouioui
 | `content.js` | Main script injected into pages |
 | `popup.html` | Popup UI |
 | `popup.js` | Popup toggle logic |
+
