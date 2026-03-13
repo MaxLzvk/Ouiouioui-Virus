@@ -5,8 +5,8 @@ A Chrome extension that replaces all text and images on any webpage with "Ouioui
 ## Features
 
 - Replaces all `p`, `h1`–`h6`, `span`, `button`, and `input` text with **Ouiouioui**
-- Replaces all images with a special oui image
-- Runs every 2 seconds to catch dynamically loaded content
+- Replaces all images with a random image I found online lol
+- Runs every 1 seconds to catch dynamically loaded content
 - Toggle the effect **on/off** via the extension popup
 - Disabling automatically **refreshes the page** to restore the original content
 
@@ -16,7 +16,7 @@ A Chrome extension that replaces all text and images on any webpage with "Ouioui
 2. Open Chrome and go to `chrome://extensions`
 3. Enable **Developer mode** (top right toggle)
 4. Click **Load unpacked** and select the project folder
-5. The extension is now active on all pages!
+5. The extension is now active on all pages
 
 ## Usage
 
