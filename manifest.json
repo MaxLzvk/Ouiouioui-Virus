@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "OuiOui Prank",
+    "version": "1.0",
+    "description": "Replaces text and images with Ouiouioui.",
+    "permissions": ["storage", "activeTab", "tabs"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "OuiOui Prank"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ]
+}
