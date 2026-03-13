@@ -1,6 +1,6 @@
 # OuiOui Extention Prank
 
-A Chrome extension that replaces all text and images on any webpage with "Ouiouioui" and a funny image.
+A Chrome extension that replaces all text and images on any webpage with "Ouiouioui" and a image.
 
 ## Features
 
