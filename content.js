@@ -21,7 +21,9 @@ function ouiify() {
     document.querySelectorAll("ins").forEach(image => { image.textContent = "Ouiouioui" });
     document.querySelectorAll("del").forEach(image => { image.textContent = "Ouiouioui" });
     document.querySelectorAll("i").forEach(image => { image.textContent = "Ouiouioui" });
+    document.querySelectorAll("li").forEach(image => { image.textContent = "Ouiouioui" });
     
+
     document.querySelectorAll("img").forEach(image => { image.src = "https://location-victor.ch/templates/yootheme/cache//1d/pngegg-1d2855ae.webp" });
     document.querySelectorAll("a img").forEach(image => { image.src = "https://location-victor.ch/templates/yootheme/cache//1d/pngegg-1d2855ae.webp" });
     document.querySelectorAll("div img").forEach(image => { image.src = "https://location-victor.ch/templates/yootheme/cache//1d/pngegg-1d2855ae.webp" });
