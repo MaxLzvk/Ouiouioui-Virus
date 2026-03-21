@@ -1,7 +1,7 @@
 const btn = document.getElementById("toggle");
 
 function updateButton(enabled) {
-    btn.textContent = enabled ? "✅ Enabled — click to disable" : "❌ Disabled — click to enable";
+    btn.textContent = enabled ? "Enabled: click to disable" : "Disabled: click to enable";
     btn.className = enabled ? "on" : "off";
 }
 
